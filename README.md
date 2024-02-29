@@ -1,6 +1,5 @@
 # Neural Networks and Learning Systems
 
-This repository showcases lab assignments completed in a **Neural Networks and Learning Systems** course. It provides examples of building machine learning algorithms from the scratch and implementing various neural network architectures to solve different problems.
 
 
 **Welcome!** This repository contains my lab assignments from the **Neural Networks and Learning Systems** course.
